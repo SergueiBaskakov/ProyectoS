@@ -1,0 +1,39 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+button#boton_buscar_datos{
+  background: #0B4F8F;
+  color:white;
+  position: relative;
+  right: -76.5%;
+  top: 10px;
+}
+table#buscador tr td{
+  border: none;
+}
+nav{
+  background: #0B4F8F;
+}
+table{
+  position: relative;
+  margin-top:5% !important;
+    margin: auto;
+    width: auto;
+    padding: 10px;
+}
+th{
+  background: #1b1e24;
+  color: #D5DDE5;
+  border: solid;
+  border-color: white;
+  border-width: 1px;
+  text-align: center !important;
+}
+td{
+  border: solid;
+  border-color: #1b1e24;
+  border-width: 1px;
+  padding: 0px;
+}
