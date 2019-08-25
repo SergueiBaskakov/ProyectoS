@@ -1,0 +1,9 @@
+git init
+git clone https://github.com/...
+
+
+git checkout -b "Rama#"
+git status
+git add .
+git commit -m "Comentario del cambio"
+git push -u origin "Rama#"
