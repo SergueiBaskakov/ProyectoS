@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
 
         button.setOnClickListener {
             startActivity(Intent(this, Menu::class.java))
+
         }
 
 
