@@ -8,3 +8,8 @@ git status
 git add .
 git commit -m "Comentario del cambio"
 git push -u origin "Rama#"
+//git push
+
+
+//git pull (para jalar archivos nuevos creados)
+// git . restore 
