@@ -36,10 +36,10 @@ dependencies {
 
 
     //navigation component
-    implementation 'android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02'
-    implementation 'android.arch.navigation:navigation-fragment:1.0.0-rc02'
-    implementation 'android.arch.navigation:navigation-ui:1.0.0-rc02'
-    implementation 'android.arch.navigation:navigation-ui-ktx:1.0.0-rc02'
+    /*implementation 'android.arch.navigation:navigation-fragment-ktx:2.1.0'
+    implementation 'android.arch.navigation:navigation-fragment:1.0.0'
+    implementation 'android.arch.navigation:navigation-ui:1.0.0'
+    implementation 'android.arch.navigation:navigation-ui-ktx:1.0.0'*/
 
     //new material design
     implementation 'com.google.android.material:material:1.0.0'
