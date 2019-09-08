@@ -11,7 +11,7 @@ import android.view.MenuItem
 import com.progfinal.trackingchofer.ui.main.SectionsPagerAdapter
 
 class Menu : AppCompatActivity() {
-
+    //cambie esto Chamo
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu)
